@@ -1,0 +1,1 @@
+# geometrik-cisim-yuzey-alan-ve-hacim-hesaplama
